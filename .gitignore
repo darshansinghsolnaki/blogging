@@ -1,0 +1,6 @@
+/node_modules
+/blogenv
+/package-lock.json
+/.env
+/ERD
+/uploads
